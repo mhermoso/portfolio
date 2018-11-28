@@ -1,5 +1,5 @@
 # My Portfolio
 This is my portfolio README
 
-## This is frustrating
-I Really dont konw why is this nor working.
+## List of my projects below
+Idea to work on Python, Flask, MongoDB, Google Cloud among others.
